@@ -23,11 +23,8 @@ Experience the excitement of the Indian Premier League with our IPL simulator. S
 
 ## Getting Started
 
-To get started, simply clone this repository to your local machine:
+To get started, simply clone this repository to your local machine
 
-```bash
-git clone https://github.com/your-username/java-games.git
-```
 
 Then, navigate to the directory of the game you want to play and follow the instructions provided in each game's directory. Make sure you have Java installed on your system to run the games.
 
